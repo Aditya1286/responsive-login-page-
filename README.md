@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
    cd login-page
    ```
 
-3. **Open the HTML File**: Open the `index.html` file in your preferred web browser.
+3. **Open the HTML File**: Open the `index.html` file in your preferred web browser
 
 ## Usage
 
